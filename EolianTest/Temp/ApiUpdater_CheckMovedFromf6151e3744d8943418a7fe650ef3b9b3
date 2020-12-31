@@ -1,0 +1,264 @@
+1376279401288
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Controls, Movement/EnableTeleportation.cs
+9
+5
+VRTeleporter
+0
+0
+1376279401504
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Controls, Movement/Controller.cs
+24
+13
+Selector
+0
+0
+1376279401720
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Controls, Movement/WorldGrabber.cs
+83
+31
+Selector
+0
+0
+1376279401936
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/WorldGrabber.cs
+79
+32
+Selector
+0
+0
+1376279402152
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Controls, Movement/WorldGrabber.cs
+124
+32
+Selector
+0
+0
+1376279402368
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/WorldGrabber.cs
+108
+32
+Selector
+0
+0
+1376279402584
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/Grabber.cs
+8
+28
+Vodget
+0
+0
+1376279402800
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Controls, Movement/WorldGrabber.cs
+9
+16
+Selector
+0
+0
+1376279403016
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/WorldGrabber.cs
+9
+16
+Selector
+0
+0
+1376279403232
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/Grabber.cs
+40
+36
+Selector
+0
+0
+1376279403448
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableGrabber.cs
+17
+36
+Selector
+0
+0
+1376279403664
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Controls, Movement/WorldGrabber.cs
+10
+16
+Selector
+0
+0
+1376279403880
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/WorldGrabber.cs
+10
+16
+Selector
+0
+0
+1376279404096
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/Grabber.cs
+126
+42
+Selector
+0
+0
+1376279404312
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/CollisionGrabber.cs
+76
+42
+Selector
+0
+0
+1376279404528
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/Grabber.cs
+67
+37
+Selector
+0
+0
+1376279404744
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/Grabber.cs
+67
+56
+Selector
+0
+0
+1376279406040
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableGrabber.cs
+36
+37
+Selector
+0
+0
+1376279406256
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableGrabber.cs
+36
+56
+Selector
+0
+0
+1376279406472
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableSliderVodget.cs
+12
+44
+Vodget
+0
+0
+1376279406688
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Selectors/DirectSelector.cs
+6
+35
+Selector
+0
+0
+1376279406904
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Selectors/RaySelector.cs
+5
+32
+Selector
+0
+0
+1376279407120
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/Grabber.cs
+10
+19
+Selector
+0
+0
+1376279407336
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableGrabber.cs
+72
+42
+Selector
+0
+0
+1376279407768
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Selectors/RaySelector.cs
+23
+17
+Vodget
+0
+0
+1376279408416
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Selectors/DirectSelector.cs
+8
+9
+Vodget
+0
+0
+1376279408632
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableSliderVodget.cs
+62
+36
+Selector
+0
+0
+1376279408848
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableSliderVodget.cs
+210
+37
+Selector
+0
+0
+1376279409064
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableSliderVodget.cs
+210
+56
+Selector
+0
+0
+1376279409280
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableSliderVodget.cs
+260
+42
+Selector
+0
+0
+1376279409496
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableSliderVodget.cs
+20
+16
+Outline
+0
+0
+1376279409712
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableSliderVodget.cs
+25
+16
+ObjectiveComplete
+0
+0
+1376279409928
+-1485410143
+C:/Users/Node 3/Projects/Pylon Race/Assets/Scripts/Grabbers/RetractableSliderVodget.cs
+29
+19
+Selector
+0
+0
