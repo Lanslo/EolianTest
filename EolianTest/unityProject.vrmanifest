@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.pylonrace.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Node 3\\Projects\\Pylon Race\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Pylon Race [Testing]"
+        }
+      }
+    }
+  ]
+}

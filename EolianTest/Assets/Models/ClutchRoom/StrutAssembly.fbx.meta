@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: ab26af7ef2e57894f93a2f47ee52ae68
+timeCreated: 1517431070
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _Strut_02
+    100002: Bumpstop
+    100004: Bumpstop1
+    100006: Bumpstop_Bolts
+    100008: Chain
+    100010: HydraulicHose
+    100012: Knuckle
+    100014: LowerBolt_01
+    100016: LowerBolt_02
+    100018: LowerPin
+    100020: LowerPin 1
+    100022: LowerPinandBolts
+    100024: LowerPlateLeft
+    100026: LowerYoke
+    100028: LowerYokeBolts
+    100030: Rotor
+    100032: //RootNode
+    100034: Strut_01
+    100036: UpperBolt_01
+    100038: UpperBolt_02
+    100040: UpperBolt_03
+    100042: UpperBolt_04
+    100044: UpperPin
+    100046: UpperPin 1
+    100048: UpperPinandBolts
+    100050: UpperPlateLeft
+    100052: UpperPlateRight
+    100054: UpperYoke
+    100056: UpperYokeBolts
+    100058: Wheel
+    400000: _Strut_02
+    400002: Bumpstop
+    400004: Bumpstop1
+    400006: Bumpstop_Bolts
+    400008: Chain
+    400010: HydraulicHose
+    400012: Knuckle
+    400014: LowerBolt_01
+    400016: LowerBolt_02
+    400018: LowerPin
+    400020: LowerPin 1
+    400022: LowerPinandBolts
+    400024: LowerPlateLeft
+    400026: LowerYoke
+    400028: LowerYokeBolts
+    400030: Rotor
+    400032: //RootNode
+    400034: Strut_01
+    400036: UpperBolt_01
+    400038: UpperBolt_02
+    400040: UpperBolt_03
+    400042: UpperBolt_04
+    400044: UpperPin
+    400046: UpperPin 1
+    400048: UpperPinandBolts
+    400050: UpperPlateLeft
+    400052: UpperPlateRight
+    400054: UpperYoke
+    400056: UpperYokeBolts
+    400058: Wheel
+    2100000: blinn1
+    2100002: lambert2
+    2100004: blinn10
+    2100006: blinn6
+    2100008: blinn8
+    2100010: pasted__blinn4
+    2100012: blinn7
+    2100014: blinn2
+    2100016: blinn5
+    2100018: blinn9
+    2100020: blinn3
+    2100022: lambert5
+    2300000: _Strut_02
+    2300002: Bumpstop
+    2300004: Bumpstop1
+    2300006: Bumpstop_Bolts
+    2300008: Chain
+    2300010: HydraulicHose
+    2300012: Knuckle
+    2300014: LowerBolt_01
+    2300016: LowerBolt_02
+    2300018: LowerPin 1
+    2300020: LowerPlateLeft
+    2300022: LowerYoke
+    2300024: LowerYokeBolts
+    2300026: Rotor
+    2300028: //RootNode
+    2300030: Strut_01
+    2300032: UpperBolt_01
+    2300034: UpperBolt_02
+    2300036: UpperBolt_03
+    2300038: UpperBolt_04
+    2300040: UpperPin 1
+    2300042: UpperPlateLeft
+    2300044: UpperPlateRight
+    2300046: UpperYoke
+    2300048: UpperYokeBolts
+    2300050: Wheel
+    3300000: _Strut_02
+    3300002: Bumpstop
+    3300004: Bumpstop1
+    3300006: Bumpstop_Bolts
+    3300008: Chain
+    3300010: HydraulicHose
+    3300012: Knuckle
+    3300014: LowerBolt_01
+    3300016: LowerBolt_02
+    3300018: LowerPin 1
+    3300020: LowerPlateLeft
+    3300022: LowerYoke
+    3300024: LowerYokeBolts
+    3300026: Rotor
+    3300028: //RootNode
+    3300030: Strut_01
+    3300032: UpperBolt_01
+    3300034: UpperBolt_02
+    3300036: UpperBolt_03
+    3300038: UpperBolt_04
+    3300040: UpperPin 1
+    3300042: UpperPlateLeft
+    3300044: UpperPlateRight
+    3300046: UpperYoke
+    3300048: UpperYokeBolts
+    3300050: Wheel
+    4300000: Hull
+    4300002: Bumpstop
+    4300004: Bumpstop_Bolts
+    4300006: Bumpstop1
+    4300008: LowerPlateLeft
+    4300010: LowerBolt_02
+    4300012: LowerPin
+    4300014: LowerBolt_01
+    4300016: _Strut_02
+    4300018: Strut_01
+    4300020: HydraulicHose
+    4300022: UpperYoke
+    4300024: LowerYoke
+    4300026: Rotor
+    4300028: Knuckle
+    4300030: Chain
+    4300032: Wheel
+    4300034: UpperYokeBolts
+    4300036: LowerYokeBolts
+    4300038: UpperPlateLeft
+    4300040: UpperPin
+    4300042: UpperPlateRight
+    4300044: UpperBolt_03
+    4300046: UpperBolt_04
+    4300048: UpperBolt_01
+    4300050: UpperBolt_02
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
